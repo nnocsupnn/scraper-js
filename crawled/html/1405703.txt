@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1562567553145/recaptcha__en.js"></script>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=11">
+		<title>SEV 1-1 ATM | Sevilla - Atl. Madrid | Match Summary</title>
+
+		<meta name="robots" content="NOODP,index,follow">
+<meta name="apple-itunes-app" content="app-id=766443283">
+<meta name="google-play-app" content="app-id=eu.livesport.FlashScore_com">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+<meta property="og:title" content="Sevilla - Atl. Madrid 1:1">
+<meta property="og:image" content="http://www.flashscore.com/res/image/data/G2BgO5Ar-OjFxDndE-KdM6gJMF.png">
+<meta property="og:description" content="SPAIN: LaLiga - Round 18">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="shortcut icon" href="/res/_fs/icon/flashscore.com/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/res/image/mobile-icons/fs-black/180x180.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/res/image/mobile-icons/fs-black/152x152.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/res/image/mobile-icons/fs-black/120x120.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/res/image/mobile-icons/fs-black/72x72.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/res/image/mobile-icons/fs-black/57x57.png">
+<link rel="apple-touch-icon" href="/res/image/mobile-icons/fs-black/touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="FlashScore.com">
+<meta name="application-name" content="FlashScore.com">
+<meta name="msapplication-square150x150logo" content="/res/image/mobile-icons/fs-black/336x336.png">
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PWJ3NQ"></script><script async="" defer="" src="https://www.google.com/recaptcha/api.js?hl=en&amp;onload=captchaOnLoad&amp;render=explicit"></script><script type="text/javascript" src="/x/js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="/x/js/loader.js?serial=1705000000"></script>
+	<script defer="" type="text/javascript" src="/x/js/bundle.js?serial=1705000000"></script>
+	<script type="text/javascript" src="/x/js/framework35.js"></script>
+	<script type="text/javascript" src="/x/js/lscompressor-min.js"></script>
+	<script type="text/javascript" src="/x/js/core_2_1705000000.js"></script>
+	<script type="text/javascript" src="/x/js/detail_2_1705000000.js"></script>
+	<script type="text/javascript" src="/x/js/table_2_1705000000.js"></script>
+<link type="text/css" rel="stylesheet" href="/x/css/dynamic_2_1427000000.css" media="all">
+<link type="text/css" rel="stylesheet" href="/x/css/detail_2_1427000000.css" media="all">
+<link type="text/css" rel="stylesheet" href="/x/css/standings_separate_2_1427000000.css" media="all">
+<link type="text/css" rel="stylesheet" href="/x/css/user_2_1427000000.css" media="all">
+<link type="text/css" rel="stylesheet" href="/x/css/table_2_1427000000.css" media="all">
+<link type="text/css" rel="stylesheet" href="/x/css/banner_2_1427000000.css" media="all">
+		<script type="text/javascript">
+			try { refresh_alert_check_on(); } catch(e) {}
+		</script>
+				<script type="text/javascript">
+			// <![CDATA[
+			document.domain = 'flashscore.com';
+			var counter_duration_time = 60;
+
+			var participantEncodedIds = ['h8oAv4Ts','jaarqpLQ'];
+			var tournamentStageEncodedId = 'IVm2O3QA';
+			var tournamentEncodedId = 'YLO7JZEA';
+			var tournamentNameWithStage = 'LaLiga';
+			var detailPage = null;
+
+			var g2utime = 1546794401;
+			var game_utime = 1546787700;
+			var game_utime_end = 0;
+			var event_stage_type_id = 3;
+			var race_or_main_stage_status_id = null;
+			var event_stage_id = 3;
+			var game_update_time = 1563369293;			var app_gmt_offset = -7200;
+			var default_tz = 2;
+			var tudate = 1563321600;			var mid_s = 1;
+			var sport_id = 1;
+			var page_hlscore_title = "GOAL";
+			//var odds_format_url = "eu";
+			var mpe_alias = 'p1:100, p2:100, p3:100, p4:100, p5:100, p6:100, p7:100, p8:100, p9:100, p10:100';
+			var mpe_delivery = 'a';
+			var mpr = 19;
+			var refresh_serial = 0;
+			var event_stage_trans = new Array();
+			var home_3char = "SEV";
+			var away_3char = "ATM";
+			var title_at_char = "";
+			var isSwapped = "";
+			var playingOnSets = "";
+			var hasLiveCentreEnabled = 1;
+			var isParticipantDetail = 0;
+			var eventParticipantEncodedId = "ltB92yKu";
+			var stageId = "";
+			var externalProjectId = 0;
+			var hasScratches = false;
+			cjs.bookmakersData = {"default":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"default","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"default","name":"Unibet"},{"main_bookmaker_id":"417","project_id":"2","geo_ip":"default","name":"1xBet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"default","name":"William Hill"}],"GB":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"GB","name":"bet365"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"GB","name":"William Hill"},{"main_bookmaker_id":"60","project_id":"2","geo_ip":"GB","name":"Paddy Power"}],"ES":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"ES","name":"bet365"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"ES","name":"William Hill"},{"main_bookmaker_id":"406","project_id":"2","geo_ip":"ES","name":"Sportium.es"},{"main_bookmaker_id":"392","project_id":"2","geo_ip":"ES","name":"bwin.es"}],"IT":[{"main_bookmaker_id":"419","project_id":"2","geo_ip":"IT","name":"bet365.it"}],"FR":[{"main_bookmaker_id":"141","project_id":"2","geo_ip":"FR","name":"Betclic.fr"},{"main_bookmaker_id":"129","project_id":"2","geo_ip":"FR","name":"bwin.fr"},{"main_bookmaker_id":"398","project_id":"2","geo_ip":"FR","name":"NetBet.fr"},{"main_bookmaker_id":"160","project_id":"2","geo_ip":"FR","name":"Unibet.fr"}],"AU":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"AU","name":"bet365"},{"main_bookmaker_id":"158","project_id":"2","geo_ip":"AU","name":"Sportsbet.com.au"}],"RU":[{"main_bookmaker_id":"453","project_id":"2","geo_ip":"RU","name":"1xStavka.ru"},{"main_bookmaker_id":"454","project_id":"2","geo_ip":"RU","name":"Winline.ru"},{"main_bookmaker_id":"455","project_id":"2","geo_ip":"RU","name":"Leon.ru"}],"KR":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"KR","name":"1xBet"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"KR","name":"bet365"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"KR","name":"William Hill"}],"CZ":[{"main_bookmaker_id":"49","project_id":"2","geo_ip":"CZ","name":"Tipsport.cz"},{"main_bookmaker_id":"46","project_id":"2","geo_ip":"CZ","name":"iFortuna.cz"},{"main_bookmaker_id":"45","project_id":"2","geo_ip":"CZ","name":"Chance.cz"}],"DK":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"DK","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"DK","name":"Unibet"},{"main_bookmaker_id":"429","project_id":"2","geo_ip":"DK","name":"Betfair"},{"main_bookmaker_id":"33","project_id":"2","geo_ip":"DK","name":"NordicBet"}],"US":[],"RO":[{"main_bookmaker_id":"5","project_id":"2","geo_ip":"RO","name":"Unibet"},{"main_bookmaker_id":"438","project_id":"2","geo_ip":"RO","name":"Fortuna.ro"},{"main_bookmaker_id":"161","project_id":"2","geo_ip":"RO","name":"NetBet"}],"TR":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"TR","name":"bet365"}],"PL":[{"main_bookmaker_id":"163","project_id":"2","geo_ip":"PL","name":"eFortuna.pl"},{"main_bookmaker_id":"165","project_id":"2","geo_ip":"PL","name":"STS.pl"},{"main_bookmaker_id":"472","project_id":"2","geo_ip":"PL","name":"Totolotek.pl"},{"main_bookmaker_id":"502","project_id":"2","geo_ip":"PL","name":"Lvbet.pl"}],"TN":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"TN","name":"bet365"},{"main_bookmaker_id":"417","project_id":"2","geo_ip":"TN","name":"1xBet"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"TN","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"TN","name":"William Hill"}],"KE":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"KE","name":"1xBet"},{"main_bookmaker_id":"533","project_id":"2","geo_ip":"KE","name":"Betway Africa"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"KE","name":"bet365"}],"ZA":[{"main_bookmaker_id":"38","project_id":"2","geo_ip":"ZA","name":"Sportingbet"},{"main_bookmaker_id":"533","project_id":"2","geo_ip":"ZA","name":"Betway Africa"}],"AZ":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"AZ","name":"1xBet"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"AZ","name":"bet365"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"AZ","name":"William Hill"}],"GH":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"GH","name":"1xBet"},{"main_bookmaker_id":"533","project_id":"2","geo_ip":"GH","name":"Betway Africa"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"GH","name":"bet365"}],"JP":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"JP","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"JP","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"JP","name":"William Hill"}],"LT":[{"main_bookmaker_id":"512","project_id":"2","geo_ip":"LT","name":"Betsafe.lt"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"LT","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"LT","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"LT","name":"William Hill"}],"TH":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"TH","name":"bet365"},{"main_bookmaker_id":"417","project_id":"2","geo_ip":"TH","name":"1xBet"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"TH","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"TH","name":"William Hill"}],"UG":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"UG","name":"1xBet"},{"main_bookmaker_id":"533","project_id":"2","geo_ip":"UG","name":"Betway Africa"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"UG","name":"bet365"}],"VN":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"VN","name":"1xBet"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"VN","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"VN","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"VN","name":"William Hill"}],"NG":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"NG","name":"1xBet"},{"main_bookmaker_id":"533","project_id":"2","geo_ip":"NG","name":"Betway Africa"},{"main_bookmaker_id":"161","project_id":"2","geo_ip":"NG","name":"NetBet"},{"main_bookmaker_id":"509","project_id":"2","geo_ip":"NG","name":"Bet9ja"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"NG","name":"bet365"}],"EE":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"EE","name":"bet365"},{"main_bookmaker_id":"508","project_id":"2","geo_ip":"EE","name":"Betsafe.ee"},{"main_bookmaker_id":"2","project_id":"2","geo_ip":"EE","name":"bwin"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"EE","name":"Unibet"}],"ID":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"ID","name":"1xBet"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"ID","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"ID","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"ID","name":"William Hill"}],"NL":[{"main_bookmaker_id":"27","project_id":"2","geo_ip":"NL","name":"888sport"}],"BE":[{"main_bookmaker_id":"5","project_id":"2","geo_ip":"BE","name":"Unibet"},{"main_bookmaker_id":"2","project_id":"2","geo_ip":"BE","name":"bwin"}],"BG":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"BG","name":"bet365"},{"main_bookmaker_id":"2","project_id":"2","geo_ip":"BG","name":"bwin"}],"GR":[{"main_bookmaker_id":"409","project_id":"2","geo_ip":"GR","name":"Stoiximan"}],"KZ":[{"main_bookmaker_id":"471","project_id":"2","geo_ip":"KZ","name":"1xBet.kz"}],"PT":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"PT","name":"1xBet"},{"main_bookmaker_id":"459","project_id":"2","geo_ip":"PT","name":"Bet.pt"},{"main_bookmaker_id":"447","project_id":"2","geo_ip":"PT","name":"Betclic.pt"}],"SK":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"SK","name":"bet365"},{"main_bookmaker_id":"411","project_id":"2","geo_ip":"SK","name":"Tipsport.sk"}],"UY":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"UY","name":"bet365"},{"main_bookmaker_id":"2","project_id":"2","geo_ip":"UY","name":"bwin"}],"GE":[{"main_bookmaker_id":"493","project_id":"2","geo_ip":"GE","name":"europebet"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"GE","name":"bet365"}],"MX":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"MX","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"MX","name":"Unibet"}],"UA":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"UA","name":"1xBet"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"UA","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"UA","name":"Unibet"},{"main_bookmaker_id":"15","project_id":"2","geo_ip":"UA","name":"William Hill"}],"PE":[{"main_bookmaker_id":"43","project_id":"2","geo_ip":"PE","name":"Betsson"},{"main_bookmaker_id":"483","project_id":"2","geo_ip":"PE","name":"Inkabet.pe"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"PE","name":"bet365"}],"LV":[{"main_bookmaker_id":"507","project_id":"2","geo_ip":"LV","name":"Betsafe.lv"},{"main_bookmaker_id":"16","project_id":"2","geo_ip":"LV","name":"bet365"}],"CY":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"CY","name":"bet365"},{"main_bookmaker_id":"409","project_id":"2","geo_ip":"CY","name":"Stoiximan"}],"SE":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"SE","name":"bet365"},{"main_bookmaker_id":"43","project_id":"2","geo_ip":"SE","name":"Betsson"}],"NO":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"NO","name":"bet365"},{"main_bookmaker_id":"5","project_id":"2","geo_ip":"NO","name":"Unibet"}],"AL":[{"main_bookmaker_id":"16","project_id":"2","geo_ip":"AL","name":"bet365"}],"ZM":[{"main_bookmaker_id":"417","project_id":"2","geo_ip":"ZM","name":"1xBet"},{"main_bookmaker_id":"533","project_id":"2","geo_ip":"ZM","name":"Betway Africa"}],"TZ":[{"main_bookmaker_id":"538","project_id":"2","geo_ip":"TZ","name":"Parimatchtz"}]};
+			cjs.bookmakerLogos = {"url":"\/res\/image\/data\/m-ddxzWOqT-CzkVvt1m.png?bookmaker=[2,3,5,14,15,16,24,26,27,33,38,43,45,46,49,60,75,129,139,141,147,158,160,161,163,164,165,392,398,406,409,411,417,419,429,438,447,453,454,455,459,468,471,472,483,491,493,494,502,503,504,506,507,508,509,512,518,533,536,538]","offsets":{"2":0,"3":21,"5":42,"14":63,"15":84,"16":105,"24":126,"26":147,"27":168,"33":189,"38":210,"43":231,"45":252,"46":273,"49":294,"60":315,"75":336,"129":357,"139":378,"141":399,"147":420,"158":441,"160":462,"161":483,"163":504,"164":525,"165":546,"392":567,"398":588,"406":609,"409":630,"411":651,"417":672,"419":693,"429":714,"438":735,"447":756,"453":777,"454":798,"455":819,"459":840,"468":861,"471":882,"472":903,"483":924,"491":945,"493":966,"494":987,"502":1008,"503":1029,"504":1050,"506":1071,"507":1092,"508":1113,"509":1134,"512":1155,"518":1176,"533":1197,"536":1218,"538":1239}};
+			cjs.availableBookmakers = {"default":["16","5","2","15","429","417"],"GB":["16","15","5","429","60","26"],"ES":["16","392","406","15","429"],"IT":["419"],"FR":["141","129","139","398","160"],"AU":["16","158"],"RU":["453","454","455"],"KR":["417","16","15","75","147","14"],"CZ":["49","46","45","16","5"],"DK":["16","5","24","33","429"],"US":[],"RO":["5","16","429","438","161"],"TR":[],"PL":["163","472","502","165"],"TN":["16","15","5","2","417"],"KE":["417","533","16"],"ZA":["38","518","533"],"AZ":["417","16","15","5","2","429"],"GH":["417","533","16"],"JP":["16","15","5","2","3","429","417"],"LT":["512","16","15","5","3","429","417"],"TH":["16","15","5","2","3","429","417"],"UG":["417","533","16"],"VN":["417","16","15","5","2","3","429","147"],"NG":["417","533","161","509","503","536","506","16"],"EE":["16","508","5","2","3"],"ID":["417","16","15","5","2","429","147","75"],"NL":["27"],"BE":["5","2"],"BG":["16","2","494"],"GR":["409"],"KZ":["471","491"],"PT":["417","459","447"],"SK":["16","411","164"],"UY":["16","2"],"GE":["493","16","15","5"],"MX":["16","5","429"],"UA":["417","16","5","15","2","3","429"],"PE":["43","483","16","504"],"LV":["507","16","5","417","3"],"CY":["16","409"],"SE":["16","43"],"NO":["16","5","43","2","468","15"],"AL":[],"ZM":["417","533","16"],"TZ":["538","16","417"]};
+			cjs.bookmakerGeoGroups = {"default":{"geo_ip":"default","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"GB":{"geo_ip":"GB","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"ES":{"geo_ip":"ES","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"IT":{"geo_ip":"IT","clickable":"0","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"FR":{"geo_ip":"FR","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"AU":{"geo_ip":"AU","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"RU":{"geo_ip":"RU","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"KR":{"geo_ip":"KR","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"CZ":{"geo_ip":"CZ","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"DK":{"geo_ip":"DK","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"US":{"geo_ip":"US","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"RO":{"geo_ip":"RO","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"TR":{"geo_ip":"TR","clickable":"0","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"PL":{"geo_ip":"PL","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"TN":{"geo_ip":"TN","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"KE":{"geo_ip":"KE","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"ZA":{"geo_ip":"ZA","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"AZ":{"geo_ip":"AZ","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"GH":{"geo_ip":"GH","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"JP":{"geo_ip":"JP","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"LT":{"geo_ip":"LT","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"TH":{"geo_ip":"TH","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"UG":{"geo_ip":"UG","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"VN":{"geo_ip":"VN","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"NG":{"geo_ip":"NG","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"EE":{"geo_ip":"EE","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"ID":{"geo_ip":"ID","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"NL":{"geo_ip":"NL","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"BE":{"geo_ip":"BE","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"BG":{"geo_ip":"BG","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"GR":{"geo_ip":"GR","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"KZ":{"geo_ip":"KZ","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"PT":{"geo_ip":"PT","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"SK":{"geo_ip":"SK","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"UY":{"geo_ip":"UY","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"GE":{"geo_ip":"GE","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"MX":{"geo_ip":"MX","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"UA":{"geo_ip":"UA","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"PE":{"geo_ip":"PE","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"LV":{"geo_ip":"LV","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"CY":{"geo_ip":"CY","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"SE":{"geo_ip":"SE","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"NO":{"geo_ip":"NO","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"AL":{"geo_ip":"AL","clickable":"0","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"ZM":{"geo_ip":"ZM","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"},"TZ":{"geo_ip":"TZ","clickable":"1","logo_to_text_match_summary":"0","logo_to_text_odds_comparison":"0","logo_to_text_bonus":"0"}};
+			cjs.allowedTvs = [1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,46,47,48,49,50,51,53,54,55,56,57,60,62,63,64,65,66,67,68,69,70,71,73,74,75,76,77,78,80,81,82,83,84,85,87,88,89,91,92,95,97,98,99,100,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,121,122,123,124,125,126,127,129,130,132,133,134,135,136,137,138,139,140,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,163,164,165,166,174,175,176,178,179,180,181,182,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,254,255,256,257,258,259,284,287,288,290,292,301,302,303,305,308,340,341,342,343,344,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,477,478,479,480,481,482,483,485,486,487,488,489,490,491,493,494,495,496,497,498,499,500,501,502,503,505,506,507,508,509,510,511,512,513,514,515,516,517,518,520,521,522,523,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,544,545,546,550,551,552,553,554,555,556,558,559,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,641,643,644,645,646,648,649,650,651,652,654,655,656,657,658,659,660,662,663,664,666,667,668,669,670,671,672,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,764,765,766,767,768,769,770,772,773,774,775,776,777,780];
+			var bookmakersDataWrapper = {
+				'bookmakersData': cjs.bookmakersData,
+				'availableBookmakers': cjs.availableBookmakers,
+				'geoGroups': cjs.bookmakerGeoGroups,
+				'logos': cjs.bookmakerLogos
+			};
+			cjs.Api.loader.get('bookmakersData').fullfill(function(callback) {
+				callback(bookmakersDataWrapper);
+			});
+			var tz_list = [-11,-10,-9,-8,-7,-6,-5,-4.5,-4,-3.5,-3,-2,-1,+0,+1,+2,+3,+3.5,+4,+5,+5.5,+5.75,+6,+6.5,+7,+8,+9,+9.5,+10,+10.5,+11,+12,+13];			var sentences = [];
+			var sentences_parts = [];
+			var fs_detail = cjs.dic.getNewInstance('detail_fsdetail');
+fs_detail.DA = 3;fs_detail.DZ = 3;fs_detail.DB = 3;fs_detail.DD = 1546794401;fs_detail.AW = 1;fs_detail.DC = 1546787700;fs_detail.DS = 0;fs_detail.DE = 1;fs_detail.DF = 1;fs_detail.DG = 1;fs_detail.DH = 1;fs_detail.DI = -1;fs_detail.DK = 1546794412;fs_detail.DL = 1;fs_detail.DM = "";fs_detail.DT = "";fs_detail.DX = "ST,PS,LI,LC,MC,OD,HH,SCR,LT,TA,NF";fs_detail.HR = "1553591583|;1553591583|";fs_detail.DV = 1;fs_detail.EI = "";fs_detail.SC = 16;fs_detail.SB = 1;fs_detail.SD = "bet365";fs_detail.setHash("CA", "");fs_detail.GB = '{"default":true,"GB":true,"ES":true,"IT":true,"FR":true,"AU":true,"RU":true,"KR":true,"CZ":true,"DK":true,"US":false,"RO":true,"TR":false,"PL":true,"TN":true,"KE":true,"ZA":true,"AZ":true,"GH":true,"JP":true,"LT":true,"TH":true,"UG":true,"VN":true,"NG":true,"EE":true,"ID":true,"NL":true,"BE":true,"BG":true,"GR":true,"KZ":true,"PT":true,"SK":true,"UY":true,"GE":true,"MX":true,"UA":true,"PE":true,"LV":true,"CY":true,"SE":true,"NO":true,"AL":false,"ZM":true,"TZ":true}';fs_detail.IY = 'SEV';fs_detail.IZ = 'ATM';event_stage_trans[1] = "&nbsp;"; event_stage_trans[45] = "To finish"; event_stage_trans[42] = "Awaiting updates"; event_stage_trans[2] = "Live"; event_stage_trans[12] = "1st Half"; event_stage_trans[38] = "Half Time"; event_stage_trans[13] = "2nd Half"; event_stage_trans[6] = "Extra Time"; event_stage_trans[7] = "Penalties"; event_stage_trans[46] = "Break Time"; event_stage_trans[3] = "Finished"; event_stage_trans[10] = "After Extra Time"; event_stage_trans[11] = "After Penalties"; event_stage_trans[9] = "Walkover"; event_stage_trans[43] = "Delayed"; event_stage_trans[36] = "Interrupted"; event_stage_trans[4] = "Postponed"; event_stage_trans[5] = "Cancelled"; event_stage_trans[37] = "Abandoned"; event_stage_trans[54] = "Awarded"; 
+			$(window).bind('load', detail_load);
+			$(window).bind('load', function()
+			{
+				try{
+										window.e_t = cjs.dic.get('utilEnviroment').getEventTrackingObject();
+					banners.setDisplayedCallback(function(){e_t.bindAdsCallbackClick()});
+										document.lsadvert_display();
+				}
+				catch(e)
+				{
+				}
+			});
+			$(window).bind('hashchange', detail_hashchange);
+			$(document).ready(function()
+			{
+				cjs.dic.get('DicProxy').onReady(function()
+				{
+					detail_init('soccer', 'IyZ7QtEE', game_update_time);
+					set_detail_bet_icon_states("tab-prematch-odds");
+					detail_tab();
+					detail_delegate_actions(1, 'soccer', 'IyZ7QtEE');
+				});
+
+									initFeedRequest();
+					myTeamsInit(1);
+					if (typeof cjs.myTeams != 'undefined')
+					{
+						cjs.myTeams.printToggleIcons();
+						cjs.myTeams.delegateTooltips();
+					}
+				
+									var fsDetailObj = cjs.dic.getNewInstance('detail_fsdetail');
+					fsDetailObj.setOverrideData(fs_detail);
+					fsDetailObj.repaintScore();
+					fsDetailObj.repaintEventStage();
+				
+				cjs.dic.get('Util_DeviceTab').setDeviceTypeToElement($("body"));
+				window.onresize = function() {
+					cjs.dic.get('Util_DeviceTab').setDeviceTypeToElement($("body"));
+				};
+
+			});
+
+	$(document).ready(function() {
+	    cjs.dic.get('utilEnviroment').getGeoIp(function (geoIp, geoIpIsoSubdivisionCode) {
+            cjs.dic.get('Helper_GambleResponsibly').removeNotice(geoIp, geoIpIsoSubdivisionCode, cjs.dic.get('util_enviroment').getBookmakersData());
+            cjs.dic.get('Helper_ClickableBookmaker').setBookmakerGeoGroupsData(cjs.dic.get('util_enviroment').getBookmakerGeoGroups());
+            cjs.dic.get('Helper_ClickableBookmaker').renamePrematchOddsTab(geoIp, geoIpIsoSubdivisionCode);
+        }, true);
+	});
+	
+					// ]]>
+		</script>
+
+<script type="text/javascript">
+// <![CDATA[
+var stats2Config = {"tournament":"YLO7JZEA","tournamentStage":"IVm2O3QA","statsTabsConfig":{"16":{"name":"Live Standings","url":"live","sortKey":1},"1":{"name":"Standings","url":"table","sortKey":2,"items":{"1":{"name":"Overall","url":"overall","sortKey":1},"2":{"name":"Home","url":"home","sortKey":2},"3":{"name":"Away","url":"away","sortKey":3}}},"5":{"name":"Form","url":"form","sortKey":3,"items":{"5":{"name":"Overall","url":"overall","has_sub_items":true,"sortKey":1},"8":{"name":"Home","url":"home","has_sub_items":true,"sortKey":2},"9":{"name":"Away","url":"away","has_sub_items":true,"sortKey":3}}},"6":{"name":"Over\/Under","url":"over_under","sortKey":4,"items":{"6":{"name":"Overall","url":"overall","has_sub_items":true,"sortKey":1},"17":{"name":"Home","url":"home","has_sub_items":true,"sortKey":2},"18":{"name":"Away","url":"away","has_sub_items":true,"sortKey":3}}},"7":{"name":"Streaks","url":"streaks","sortKey":5},"-1":{"name":"Draw","url":"draw","sortKey":6},"13":{"url":"ht_ft","name":"HT\/FT","title":"Half Time\/Full Time","sortKey":7,"items":{"13":{"name":"Overall","url":"overall","sortKey":1},"14":{"name":"Home","url":"home","sortKey":2},"15":{"name":"Away","url":"away","sortKey":3}}},"10":{"name":"Top Scorers","url":"top_scorers","sortKey":8}},"statsOverUnderTypes":{"8":{"sort":0,"name":0.5,"default_tab_order":1},"1":{"sort":1,"name":1.5,"default_tab_order":0},"2":{"sort":2,"name":2.5,"default_tab_order":2},"3":{"sort":3,"name":3.5,"default_tab_order":0},"4":{"sort":4,"name":4.5,"default_tab_order":0},"5":{"sort":5,"name":5.5,"default_tab_order":0},"6":{"sort":6,"name":6.5,"default_tab_order":0},"7":{"sort":7,"name":7.5,"default_tab_order":0}}};
+
+// ]]>
+</script>
+		<iframe src="https://d.flashscore.com/x/feed/proxy-local"></iframe></head>
+
+	
+
+	<body id="top" class="soccer detail-experimental detailbody responsive flat webkit webkit72 os-win32" device-type="mouse" style=""><div id="lsid"><div id="lsid-content"><div class="buttons"><div id="signInFB" class="lsid-rounded-box blue"><span class="icon FB"></span>Connect with Facebook</div><div id="signAndReg" class="signAndReg"></div><div id="signIn" class="lsid-rounded-box black" onclick="e_t.track_click('web-click', 'login');return false;">Login</div><div id="registration" class="lsid-rounded-box" onclick="e_t.track_click('web-click', 'registration');return false;">REGISTRATION</div></div></div></div>
+	
+		<div id="detail" class="sport-soccer"><div id="detcon">
+<div class="detail-header-wrapper">
+	<div class="logo-detail-wrapper">
+		<a href="/" target="_blank">
+			<div class="project-logo-detail flashscore-com-white"></div>
+		</a>
+	</div>
+	<div class="detail">
+		<div class="header">
+			<div class="headerStrip">
+				<div class="fleft">
+					<span class="flag fl_176"></span>
+					<span>SPAIN: <a href="#" onclick="window.open('/football/spain/laliga/'); return false;">LaLiga - Round 18</a></span>
+				</div>
+				<div id="utime" class="info-time mstat-date">06.01.2019 23:15</div>
+			</div>
+		</div>
+		<div class="hclean"></div>
+	</div>
+</div>
+<div id="preload-all" class="hidden"><div class="preload"><span>Loading...</span></div></div><div id="content-all" class=""><div id="fscon-service-status"></div>
+			<div id="flashscore" class="team">
+				<div class="team-primary-content">
+					<div class="home-box logo-enable">
+						
+			<div class="side-images-wrapper tlogo-home">
+				<div class="side-images-row">
+					
+					
+					<a href="#" class="participant-imglink" onclick="window.open('/team/sevilla/h8oAv4Ts'); return false;"><img width="50" height="50" src="/res/image/data/G2BgO5Ar-nPyHsmOl.png" alt="Sevilla" title="Show profile"></a><div id="tomyteams_1_h8oAv4Ts" class="tomyteams"><span class="toggleMyTeam 1_h8oAv4Ts" title="Add to My Teams!" onclick="tt.hide(this); cjs.myTeams.toggle('1_h8oAv4Ts'); event.stopPropagation();"></span></div>
+				</div>
+			</div>
+						<div class="team-text tname-home">
+							<div class="tname">
+								<div class="tname__text">
+								    <span style="display: none" class="dw-icon ico" title="Advancing to next round">&nbsp;</span>
+									<a href="#" class="participant-imglink" onclick="window.open('/team/sevilla/h8oAv4Ts'); return false;">Sevilla</a>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="match-info">
+						<div class="current-result" id="event_detail_current_result">
+							<span class="scoreboard">1</span><span><span class="scoreboard-divider">-</span><span class="scoreboard">1</span></span>
+						</div>
+						<div class="info-status mstat">Finished</div>
+					</div>
+					<div class="away-box logo-enable">
+						
+			<div class="side-images-wrapper tlogo-away">
+				<div class="side-images-row">
+					
+					
+					<div id="tomyteams_1_jaarqpLQ" class="tomyteams"><span class="toggleMyTeam 1_jaarqpLQ" title="Add to My Teams!" onclick="tt.hide(this); cjs.myTeams.toggle('1_jaarqpLQ'); event.stopPropagation();"></span></div><a href="#" class="participant-imglink" onclick="window.open('/team/atl-madrid/jaarqpLQ'); return false;"><img width="50" height="50" src="/res/image/data/CjfjIsYg-KdM6gJMF.png" alt="Atl. Madrid" title="Show profile"></a>
+				</div>
+			</div>
+						<div class="team-text tname-away">
+							<div class="tname">
+								<div class="tname__text">
+									<a href="#" class="participant-imglink" onclick="window.open('/team/atl-madrid/jaarqpLQ'); return false;">Atl. Madrid</a>
+								    <span style="display: none" class="dw-icon ico" title="Advancing to next round">&nbsp;</span>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<div class="team-secondary-content">
+					
+				</div>
+			</div><div id="detail-submenu-bookmark-container" style="display: none;"></div><div id="detail-bookmarks"><div id="detail-mainmenu-bookmark" class="ifmenu-wrapper" style="position: relative;"><ul class="ifmenu"><li id="li-match-summary" class="li0 selected"><span><a href="#" id="a-match-summary" onclick="detail_tab('summary');  e_t.track_click('detail-bookmark-click', 'match-summary'); return false">Live Centre</a></span></li><li id="li-match-odds-comparison" class="li1"><span><a href="#" id="a-match-odds-comparison" onclick="detail_tab('odds-comparison');  e_t.track_click('detail-bookmark-click', 'odds-comparison'); return false">Odds</a></span></li><li id="li-match-head-2-head" class="li2"><span><a href="#" id="a-match-head-2-head" onclick="detail_tab('head-2-head');  e_t.track_click('detail-bookmark-click', 'h2h'); return false">H2H</a></span></li><li id="li-match-standings" class="li4"><span><a href="#" id="a-match-standings" onclick="detail_tab('standings');  e_t.track_click('detail-bookmark-click', 'stats-detail'); return false">Standings</a></span></li><li id="li-match-newsfeed" class="li8"><span><a href="#" id="a-match-newsfeed" onclick="detail_tab('newsfeed');  e_t.track_click('detail-bookmark-click', 'newsfeed'); return false">News</a></span></li></ul></div><div class="color-spacer"></div><div id="detail-submenu-bookmark" class="detail-submenu-bookmark" style=""><div class="spacer-block">&nbsp;</div><div class="ifmenu-wrapper"><ul class="ifmenu"><li id="li-match-timeline" class="li0 selected"><span><a href="#" id="a-match-timeline" onclick="detail_tab('summary');  e_t.track_click('detail-bookmark-click', 'match-summary'); return false">Match Summary</a></span></li><li id="li-match-statistics" class="li1"><span><a href="#" id="a-match-statistics" onclick="detail_tab('statistics');  e_t.track_click('detail-bookmark-click', 'match-statistics'); return false">Statistics</a></span></li><li id="li-match-lineups" class="li2"><span><a href="#" id="a-match-lineups" onclick="detail_tab('lineups');  e_t.track_click('detail-bookmark-click', 'lineups'); return false">Lineups</a></span></li><li id="li-match-commentary" class="li3"><span><a href="#" id="a-match-commentary" onclick="detail_tab('commentary');  e_t.track_click('detail-bookmark-click', 'live-comentary'); return false">Commentary</a></span></li></ul></div></div></div><div id="tab-match-summary" style="display: block;"><div id="summary-preload" class="preload-panel no-height" style="display: none;"><div class="preload"><span>Loading...</span></div></div><div id="summary-content">
+<div class="detailMS"><div class="detailMS__incidentsHeader stage-12"><div class="detailMS__headerText">1st Half</div><div class="detailMS__headerScore"><span class="p1_home" title="">1
+</span> - 
+<span class="p1_away" title="">1
+</span></div></div><div class="detailMS__incidentRow incidentRow--away odd"><div class="time-box">14'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Roughing)</span><span class="participant-name"><a href="#" onclick="window.open('/player/correa-angel/McWkid34/'); return false;">Correa A.</a></span></div><div class="detailMS__incidentRow incidentRow--home even"><div class="time-box">37'</div><div class="icon-box soccer-ball"><span class="icon soccer-ball">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/ben-yedder-wissam/hxf0pose/'); return false;">Ben Yedder W.</a></span><span class="assist note-name">(<a href="#" onclick="window.open('/player/carrico-daniel/KM4SYlxo/'); return false;">Carrico D.</a>)</span></div><div class="detailMS__incidentRow incidentRow--away odd"><div class="time-box">45'</div><div class="icon-box soccer-ball"><span class="icon soccer-ball">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/griezmann-antoine/OxCa1jdT/'); return false;">Griezmann A.</a></span></div><div class="detailMS__incidentRow incidentRow--home even"><div class="time-box">45'</div><div title="Jesus Navas (Sevilla) will have to be careful<br />for the rest of the match as he is shown<br />a yellow card." onmouseover="tt.show(this, event, true)" onmouseout="tt.hide(this)" class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/navas-jesus/hWt5ZIrn/'); return false;">Navas J.</a></span><span class="subincident-penalty subincident-name">(Foul)</span></div><div class="detailMS__incidentsHeader stage-13"><div class="detailMS__headerText">2nd Half</div><div class="detailMS__headerScore"><span class="p2_home" title="">0
+</span> - 
+<span class="p2_away" title="">0
+</span></div></div><div class="detailMS__incidentRow incidentRow--home odd"><div class="time-box">47'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/sarabia-pablo/lSX6pGT4/'); return false;">Sarabia P.</a></span><span class="subincident-penalty subincident-name">(Foul)</span></div><div class="detailMS__incidentRow incidentRow--away even"><div class="time-box">49'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Roughing)</span><span class="participant-name"><a href="#" onclick="window.open('/player/niguez-saul/hSbvVwW7/'); return false;">Saul</a></span></div><div class="detailMS__incidentRow incidentRow--away odd"><div class="time-box">54'</div><div title="Antoine Griezmann (Atl. Madrid) is awarded<br />a yellow card. The referee showed him no<br />mercy." onmouseover="tt.show(this, event, false)" onmouseout="tt.hide(this)" class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Roughing)</span><span class="participant-name"><a href="#" onclick="window.open('/player/griezmann-antoine/OxCa1jdT/'); return false;">Griezmann A.</a></span></div><div class="detailMS__incidentRow incidentRow--away even"><div class="time-box">60'</div><div class="icon-box substitution-in"><span class="icon substitution-in">&nbsp;</span></div><span class="substitution-in-name"><a href="#" onclick="window.open('/player/vitolo/QuSgm0F2/'); return false;">Vitolo</a></span><span class="substitution-out-name"><a href="#" onclick="window.open('/player/lemar-thomas/jX8PENMO/'); return false;">Lemar T.</a><span class="icon substitution-out">&nbsp;</span></span></div><div class="detailMS__incidentRow incidentRow--home odd"><div class="time-box">72'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/banega-ever/joLB6htc/'); return false;">Banega E.</a></span><span class="subincident-penalty subincident-name">(Foul)</span></div><div class="detailMS__incidentRow incidentRow--away even"><div class="time-box">77'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Holding)</span><span class="participant-name"><a href="#" onclick="window.open('/player/hernandez-rodrigo/K0G8DB00/'); return false;">Rodrigo</a></span></div><div class="detailMS__incidentRow incidentRow--away odd"><div class="time-box">78'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Foul)</span><span class="participant-name"><a href="#" onclick="window.open('/player/godin-diego/AXQzJq3b/'); return false;">Godin D.</a></span></div><div class="detailMS__incidentRow incidentRow--away even"><div class="time-box">79'</div><div class="icon-box substitution-in"><span class="icon substitution-in">&nbsp;</span></div><span class="substitution-in-name"><a href="#" onclick="window.open('/player/montero-francisco/vwcbjRMJ/'); return false;">Montero F.</a></span><span class="substitution-out-name"><a href="#" onclick="window.open('/player/correa-angel/McWkid34/'); return false;">Correa A.</a><span class="icon substitution-out">&nbsp;</span></span></div><div class="detailMS__incidentRow incidentRow--home odd"><div class="time-box">79'</div><div class="icon-box substitution-in"><span class="icon substitution-in">&nbsp;</span></div><span class="substitution-in-name"><a href="#" onclick="window.open('/player/promes-quincy/UoxZYLrK/'); return false;">Promes Q.</a></span><span class="substitution-out-name"><span class="icon substitution-out">&nbsp;</span><a href="#" onclick="window.open('/player/sarabia-pablo/lSX6pGT4/'); return false;">Sarabia P.</a></span></div><div class="detailMS__incidentRow incidentRow--home even"><div class="time-box">90'</div><div class="icon-box substitution-in"><span class="icon substitution-in">&nbsp;</span></div><span class="substitution-in-name"><a href="#" onclick="window.open('/player/amadou-ibrahim/69GWqGe3/'); return false;">Amadou I.</a></span><span class="substitution-out-name"><span class="icon substitution-out">&nbsp;</span><a href="#" onclick="window.open('/player/gnagnon-joris/6BDKdONO/'); return false;">Gnagnon J.</a></span></div><div class="detailMS__incidentRow incidentRow--away odd"><div class="time-box-wide">90+1'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Roughing)</span><span class="participant-name"><a href="#" onclick="window.open('/player/thomas/pMErKGnf/'); return false;">Thomas</a></span></div><div class="detailMS__incidentRow incidentRow--away even"><div class="time-box-wide">90+2'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="subincident-penalty subincident-name">(Unsportsmanlike conduct)</span><span class="participant-name"><a href="#" onclick="window.open('/player/savic-stefan/rXcV9ZCT/'); return false;">Savic S.</a></span></div><div class="detailMS__incidentRow incidentRow--home odd"><div class="time-box-wide">90+2'</div><div class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/silva-andre/UZRsjD5h/'); return false;">Silva An.</a></span><span class="subincident-penalty subincident-name">(Unsportsmanlike conduct)</span></div><div class="detailMS__incidentRow incidentRow--home even"><div class="time-box-wide">90+3'</div><div class="icon-box substitution-in"><span class="icon substitution-in">&nbsp;</span></div><span class="substitution-in-name"><a href="#" onclick="window.open('/player/gil-bryan/xSXBYlvl/'); return false;">Gil B.</a></span><span class="substitution-out-name"><span class="icon substitution-out">&nbsp;</span><a href="#" onclick="window.open('/player/ben-yedder-wissam/hxf0pose/'); return false;">Ben Yedder W.</a></span></div><div class="detailMS__incidentRow incidentRow--home odd"><div class="time-box-wide">90+4'</div><div title="Daniel Carrico (Sevilla) is given a yellow<br />card." onmouseover="tt.show(this, event, true)" onmouseout="tt.hide(this)" class="icon-box y-card"><span class="icon y-card">&nbsp;</span></div><span class="participant-name"><a href="#" onclick="window.open('/player/carrico-daniel/KM4SYlxo/'); return false;">Carrico D.</a></span><span class="subincident-penalty subincident-name">(Tripping)</span></div></div><div class="match-information-wrapper"><div class="parts match-information"><div><div class="stage-header"><div class="h-part">Match Information</div></div><div class="match-information-data"><div class="content">Referee: Lahoz A. (Esp),&nbsp;</div><div class="content">Attendance: 38 603,&nbsp;</div><div class="content">Venue: Estadio Ramón Sánchez Pizjuán (Sevilla)</div></div></div></div></div><div id="secret_hash"></div></div><div class="spacer-block">&nbsp;</div></div>			<div id="tab-match-odds-comparison" style="display: none;">
+			<div id="odds-comparison-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="odds-comparison-content"></div>
+			
+			</div>			<div id="tab-match-tv" style="display: none;">
+			<div id="tv-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="tv-content"></div>
+			
+			</div>			<div id="tab-match-highlights" style="display: none;">
+			<div id="highlights-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="highlights-content"></div>
+			
+			</div>			<div id="tab-match-photoreport" style="display: none;">
+			<div id="photoreport-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="photoreport-content"></div>
+			
+			</div>			<div id="tab-match-head-2-head" style="display: none;">
+			<div id="head-2-head-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="head-2-head-content"></div>
+			
+			</div>			<div id="tab-match-lineups" style="display: none;">
+			<div id="lineups-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="lineups-content"></div>
+			
+			</div>			<div id="tab-match-statistics" style="display: none;">
+			<div id="statistics-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="statistics-content"></div>
+			
+			</div>			<div id="tab-match-player-statistics" style="display: none;">
+			<div id="player-statistics-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="player-statistics-content"></div>
+			
+			</div>			<div id="tab-match-fall-of-wickets" style="display: none;">
+			<div id="fall-of-wickets-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="fall-of-wickets-content"></div>
+			
+			</div>			<div id="tab-match-overs" style="display: none;">
+			<div id="overs-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="overs-content"></div>
+			
+			</div>			<div id="tab-match-history" style="display: none;">
+			<div id="match-history-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="match-history-content"></div>
+			
+			</div>			<div id="tab-match-commentary" style="display: none;">
+			<div id="commentary-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="commentary-content"></div>
+			
+			</div>			<div id="tab-match-commentary-new" style="display: none;">
+			<div id="commentary-new-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="commentary-new-content"></div>
+			
+			</div>			<div id="tab-match-live-table" style="display: none;">
+			<div id="live-table-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="live-table-content"></div>
+			
+			</div>			<div id="tab-match-standings" style="display: none;">
+			<div id="standings-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="standings-content"></div>
+			<div class="spacer-block">&nbsp;</div>
+			</div>			<div id="tab-match-draw" style="display: none;">
+			<div id="draw-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="draw-content"></div>
+			
+			</div>			<div id="tab-match-newsfeed" style="display: none;">
+			<div id="newsfeed-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="newsfeed-content"></div>
+			
+			</div><hr class="cleaner"><div class="live-betting-strip"></div>			<script type="text/javascript">
+				cjs.dic.get('Feed_Content_OddsSetup').setStripData([]);
+			</script>
+						<script type="text/javascript">
+				cjs.dic.get('Feed_Content_OddsSetup').setPrematchData({"tableType":"odds","tabTitle":"Pre-match odds","defaultColumnWidth":60,"isBettingType_TWP":false,"isBettingType_1X2":true,"isBettingType_ASIAN_HANDICAP":false,"isNotBettingType_HOME_AWAY_DRAW_NO_BET":true,"bookmakerTitle":"&nbsp;","tableHeader":[{"name":"1"},{"name":"X"},{"name":"2"}],"handicap":{"type":"","value":0},"hasOddsComparison":true,"useBookmarkInOne":false,"moreBookmakersText":"Show more bookmakers","emptyCellChar":"-","geoOddsComparisonSettings":{"default":true,"GB":true,"ES":true,"IT":true,"FR":true,"AU":true,"RU":true,"KR":true,"CZ":true,"DK":true,"US":false,"RO":true,"TR":false,"PL":true,"TN":true,"KE":true,"ZA":true,"AZ":true,"GH":true,"JP":true,"LT":true,"TH":true,"UG":true,"VN":true,"NG":true,"EE":true,"ID":true,"NL":true,"BE":true,"BG":true,"GR":true,"KZ":true,"PT":true,"SK":true,"UY":true,"GE":true,"MX":true,"UA":true,"PE":true,"LV":true,"CY":true,"SE":true,"NO":true,"AL":false,"ZM":true,"TZ":true}});
+			</script>
+			<div id="odds-main-wrapper" style="" class="prematch">
+	<div class="odds-comparison-bookmark ifmenu-wrapper">
+		
+		<ul class="ifmenu">
+			<li id="odds-tab-prematch" class="selected" style=""><span><a href="#odds-tab-prematch" onclick="cjs.dic.get('Feed_Content_OddsSetup').switchTab('prematch'); return false">Pre-match odds</a></span></li>
+		</ul>
+	</div>
+	<div class="color-spacer odds-spacer"></div>
+
+		<div id="tab-prematch-odds" style="">
+			<div id="prematch-odds-content"><div class="odds-wrapper">
+	<table id="default-odds" class="odds" cellspacing="0">
+		<colgroup>
+			<col>
+				<col width="60">
+					<col width="60">
+				<col width="60">
+		</colgroup>
+		<tbody>
+				<tr class="odd">
+					<td class="bookmaker">
+						<div class="bookmaker-inner">
+							<div class="blink" onclick="e_t.track_click('bookmaker-button-click', 'detail_bookmaker');"><a href="/bookmaker/16/?from=detail&amp;sport=1&amp;externalProjectId=0" onclick="return !window.open(this.href)" title="bet365" class="elink"><span style="background-image:url(/res/image/data/m-8poQN9Ud-rkn1EBxA.png?bookmaker); background-position: 0 -137.5px;	 background-size: 100%; background-repeat: no-repeat;" class="detail-blogos"></span></a></div>
+						</div>
+					</td>
+					<td class="kx o_1">
+						<span class="button" onclick="e_t.track_click('bookmaker-button-click', 'odds_1');">
+							<span class="odds odds-type">1</span>
+							<span class="odds value"><span class="odds-wrap up" alt="2.87[u]2.90" eu="2.87[u]2.90">2.90</span>
+						</span>
+					</span></td>
+					<td class="kx o_0 winner">
+						<span class="button" onclick="e_t.track_click('bookmaker-button-click', 'odds_X');">
+							<span class="odds odds-type">X</span>
+							<span class="odds value"><span class="odds-wrap up" alt="3.20[u]3.25" eu="3.20[u]3.25">3.25</span>
+						</span>
+					</span></td>
+					<td class="kx o_2">
+						<span class="button" onclick="e_t.track_click('bookmaker-button-click', 'odds_2');">
+							<span class="odds odds-type">2</span>
+							<span class="odds value"><span class="odds-wrap" eu="2.50">2.50</span>
+						</span>
+					</span></td>
+				</tr>
+		</tbody>
+	</table>
+</div>
+</div>
+<div id="detail-bonus-match-summary-content-prematch" class="detail-bonus-match-summary-content"><div class="detail-bonus-match-summary-content-inner" style="background-color: #017b5b" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-match-summary', '100% bonus up to €50 / €100');} return !window.open('/bookmaker/16/?from=detail-bonus&amp;sport=1&amp;externalProjectId=0&amp;bonusId=27')">
+    <div class="detail-bonus-match-summary-content-inner-main"><a class="detail-bonus-match-summary-content-inner-main__anchor" style="color: #ffffff" href="/bookmaker/16/?from=detail-bonus&amp;sport=1&amp;externalProjectId=0&amp;bonusId=27" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-match-summary', '100% bonus up to €50 / €100');} event.stopPropagation(); return !window.open(this.href)">100% bonus up to €50 / €100</a></div>
+    <div class="detail-bonus-match-summary-content-inner-description" style="color: #ffffff">Check bet365.com for latest offers and details. Geo-variations and T&amp;Cs apply. 18+</div>
+</div>
+</div>		</div>
+	<div class="spacer-block">&nbsp;</div>
+</div>
+<div id="detail-bonus-odds-comparison-content" style="display: none;"><div class="bonus-offers-bookmark">
+    <ul class="ifmenu">
+        <li class="selected">
+            <span><strong>Bonus offers</strong></span>
+        </li>
+    </ul>
+</div>
+<div class="color-spacer bonus-offers-spacer"></div>
+
+<div id="bonus-offers" class="odds bonusOffers" cellspacing="0">
+    <div class="bonusOffers__row odd" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '100% bonus up to €50 / €100');} return !window.open('/bookmaker/16/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=139')">
+    <div class="bonusOffers__header">
+        <span class="bonusOffers__logo">
+            <div class="blink" onclick="e_t.track_click('bookmaker-button-click', 'detail-bonus-odds-comparison_bookmaker');"><a href="/bookmaker/16/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=139" onclick="return !window.open(this.href)" title="bet365" class="elink"><span style="background-image:url(/res/image/data/m-8poQN9Ud-6qH7Z393.png?bookmaker&amp;bonus); background-position: 0 -137.5px;	 background-size: 100%; background-repeat: no-repeat;" class="detail-blogos"></span></a></div>
+        </span>
+        <a class="bonusOffers__link" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '100% bonus up to €50 / €100');} event.stopPropagation(); return !window.open(this.href)" href="/bookmaker/16/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=139">100% bonus up to €50 / €100</a>
+        <span class="bonusOffers__text">Check bet365.com for latest offers and details. Geo-variations and T&amp;Cs apply. 18+</span>
+    </div>
+    </div>
+    <div class="bonusOffers__row even" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', 'INFO');} return !window.open('/bookmaker/15/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=138')">
+    <div class="bonusOffers__header">
+        <span class="bonusOffers__logo">
+            <div class="blink" onclick="e_t.track_click('bookmaker-button-click', 'detail-bonus-odds-comparison_bookmaker');"><a href="/bookmaker/15/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=138" onclick="return !window.open(this.href)" title="William Hill" class="elink"><span style="background-image:url(/res/image/data/m-8poQN9Ud-6qH7Z393.png?bookmaker&amp;bonus); background-position: 0 -110px;	 background-size: 100%; background-repeat: no-repeat;" class="detail-blogos"></span></a></div>
+        </span>
+        <a class="bonusOffers__link" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', 'INFO');} event.stopPropagation(); return !window.open(this.href)" href="/bookmaker/15/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=138">INFO</a>
+        <span class="bonusOffers__text">Check William Hill for New Customer offer details. T&amp;Cs apply.</span>
+    </div>
+    </div>
+    <div class="bonusOffers__row odd" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '€25 Risk Free Bet (100% up to €25)');} return !window.open('/bookmaker/5/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=136')">
+    <div class="bonusOffers__header">
+        <span class="bonusOffers__logo">
+            <div class="blink" onclick="e_t.track_click('bookmaker-button-click', 'detail-bonus-odds-comparison_bookmaker');"><a href="/bookmaker/5/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=136" onclick="return !window.open(this.href)" title="Unibet" class="elink"><span style="background-image:url(/res/image/data/m-8poQN9Ud-6qH7Z393.png?bookmaker&amp;bonus); background-position: 0 -55px;	 background-size: 100%; background-repeat: no-repeat;" class="detail-blogos"></span></a></div>
+        </span>
+        <a class="bonusOffers__link" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '€25 Risk Free Bet (100% up to €25)');} event.stopPropagation(); return !window.open(this.href)" href="/bookmaker/5/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=136">€25 Risk Free Bet (100% up to €25)</a>
+        <span class="bonusOffers__text"> </span>
+    </div>
+    </div>
+    <div class="bonusOffers__row even" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '100% up to €50 bonus');} return !window.open('/bookmaker/2/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=134')">
+    <div class="bonusOffers__header">
+        <span class="bonusOffers__logo">
+            <div class="blink" onclick="e_t.track_click('bookmaker-button-click', 'detail-bonus-odds-comparison_bookmaker');"><a href="/bookmaker/2/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=134" onclick="return !window.open(this.href)" title="bwin" class="elink"><span style="background-image:url(/res/image/data/m-8poQN9Ud-6qH7Z393.png?bookmaker&amp;bonus); background-position: 0 -0px;	 background-size: 100%; background-repeat: no-repeat;" class="detail-blogos"></span></a></div>
+        </span>
+        <a class="bonusOffers__link" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '100% up to €50 bonus');} event.stopPropagation(); return !window.open(this.href)" href="/bookmaker/2/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=134">100% up to €50 bonus</a>
+        <span class="bonusOffers__text"> </span>
+    </div>
+    </div>
+    <div class="bonusOffers__row odd" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '100% Welcome Bonus up to €100');} return !window.open('/bookmaker/417/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=1595')">
+    <div class="bonusOffers__header">
+        <span class="bonusOffers__logo">
+            <div class="blink" onclick="e_t.track_click('bookmaker-button-click', 'detail-bonus-odds-comparison_bookmaker');"><a href="/bookmaker/417/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=1595" onclick="return !window.open(this.href)" title="1xBet" class="elink"><span style="background-image:url(/res/image/data/m-8poQN9Ud-6qH7Z393.png?bookmaker&amp;bonus); background-position: 0 -962.5px;	 background-size: 100%; background-repeat: no-repeat;" class="detail-blogos"></span></a></div>
+        </span>
+        <a class="bonusOffers__link" onclick="if (typeof e_t !== 'undefined') {e_t.track_click('bookmaker-button-click', 'bonus-odds-comparison', '100% Welcome Bonus up to €100');} event.stopPropagation(); return !window.open(this.href)" href="/bookmaker/417/?from=detail-bonus-odds-comparison&amp;sport=1&amp;externalProjectId=0&amp;bonusId=1595">100% Welcome Bonus up to €100</a>
+        <span class="bonusOffers__text"> </span>
+    </div>
+    </div>
+</div>
+</div>
+<script type="text/javascript">
+	// <![CDATA[
+	var page_is_initialized = false;
+	cjs.dic.get('Helper_CurrentTime').setServerTimestamp(1563369294);
+	// ]]>
+</script>
+</div>
+<div class="adsenvelope adstextpad banx-detail" id="lsadvert-zid-69" style="width: 300px;"><div style="height: 250px;"><div class="adscontent" id="lsadvert-detail"><iframe id="lsadvert-zid-69-iframe" name="banx-detail" frameborder="0" scrolling="no" style="width: 300px; height: 250px;"></iframe></div><div class="adsgraphhori"><div class="adsghori ath-en"></div></div></div></div><div><div><div id="crt-1363226" class="ban_envelope" style="width: 300px; height: 250px; display: none;">
+	<script type="text/javascript">
+		if (typeof banners_backup_callbacks == "undefined") { var banners_backup_callbacks = []; }
+		var hasExistingZones = document.querySelectorAll('div[id^=lsadvert-detail]').length > 0;
+		if (hasExistingZones && typeof window.callAdblock == 'function')
+		{
+			window.callAdblock(1363226, '<a href="" target="_blank"><img alt="" src="" style="width: 300px; height: 250px;" /></a>', function(callback) { banners_backup_callbacks.push(callback); });
+		}
+	</script>
+</div></div></div><div id="detail-gamble-responsibly" class="footerAdvertGambling">Gamble Responsibly. <a href="http://www.gamblingtherapy.org/" target="_blank">Gambling Therapy</a>. 18+</div>
+<div id="winclose"><div id="sync-indicator" ondblclick="sync_change()"><span class="nosync" title="Sync Offline"></span></div><a href="#" onclick="window.close();">close window</a></div>
+</div>
+<sport name="soccer">
+<script>
+var dataLayer = dataLayer || []; // Google Tag Manager
+dataLayer.push({"event":"pageinfo","sport":"soccer","type":"detail_page","id":"IyZ7QtEE","stage":"IVm2O3QA","tournament":"YLO7JZEA","country":"ES"});
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PWJ3NQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWJ3NQ');</script>
+<!-- End Google Tag Manager -->
+</sport><div id="tooltip-1" class="tooltip"><span></span><div id="tooltip-1-lt" class="tooltip-lt"></div><div id="tooltip-1-rt" class="tooltip-rt"></div><div id="tooltip-1-lb" class="tooltip-lb"></div><div id="tooltip-1-cb" class="tooltip-cb"></div><div id="tooltip-1-rb" class="tooltip-rb"></div><div id="tooltip-1-ct" class="tooltip-ct"></div></div></div>
+				<script type="text/javascript">
+				// <![CDATA[
+				var banners; 
+				banners = new BannerHandler([69], [], window.bannersAdsServers || ["content.livesportmedia.eu"], [], jQuery, "The background image is an advertisement.", clientStorage, null, true, [664,662,661,665,2469,68,663]);
+
+							
+			banners.addSetBackgroundCallback(function(zoneId, hasOffset){
+				if (!hasOffset)
+				{
+					var $body = jQuery("body");
+					$body.addClass('background-add-on');
+				}
+
+				// Hide social buttons (Warning: don't remove buttongs from DOM - it is dangerous operations and breaks Firefox)
+				jQuery('#social-button').css('display', 'none');
+			});
+
+
+		
+				document.lsadvert_display = function() {
+					banners.display();
+				}
+								// ]]>
+				</script>
+				<iframe name="__cmpLocator" style="display: none;"></iframe><div style="position:fixed; top:0; left:0; overflow:hidden;"><input style="position:absolute; left:-300px;" type="text" value="" id="focus_retriever" readonly="true"></div><script type="text/javascript" id="">var cookieName="fonce_current_session",d=new Date;d.setTime(d.getTime()+6E4*google_tag_manager["GTM-PWJ3NQ"].macro(3));var expires=d.toGMTString(),conversionOccurred=google_tag_manager["GTM-PWJ3NQ"].macro(4);conversionOccurred=void 0===conversionOccurred?0:conversionOccurred;document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+"; path\x3d/";</script><script type="text/javascript" id="">var cookieName="fonce_current_day",todayCookie=google_tag_manager["GTM-PWJ3NQ"].macro(5),conversionOccurred,conversionOccurredLastTime;if(void 0===todayCookie)conversionOccurred=0,conversionOccurredLastTime=google_tag_manager["GTM-PWJ3NQ"].macro(6);else{var todayCookieParts=todayCookie.split(",");conversionOccurred=todayCookieParts[0];conversionOccurredLastTime=todayCookieParts[1]}var conversionOccurredCookieValue;
+conversionOccurredCookieValue="2019-07-17"==conversionOccurredLastTime?conversionOccurred+","+conversionOccurredLastTime:"0,"+google_tag_manager["GTM-PWJ3NQ"].macro(7);document.cookie=cookieName+"\x3d"+conversionOccurredCookieValue+"; path\x3d/";</script><script type="text/javascript" id="">var cookieName="fonce_current_user",d=new Date;d.setTime(d.getTime()+144E6*google_tag_manager["GTM-PWJ3NQ"].macro(8));var expires=d.toGMTString(),conversionOccurred=google_tag_manager["GTM-PWJ3NQ"].macro(9);conversionOccurred=void 0===conversionOccurred?0:conversionOccurred;document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+"; path\x3d/";console.log("*** cookie '"+cookieName+"' set (all pages): "+document.cookie);</script><script type="text/javascript" id="">var cookieName="fonce_current_session",conversionOccurred=1,d=new Date;d.setTime(d.getTime()+6E4*google_tag_manager["GTM-PWJ3NQ"].macro(36));var expires=d.toGMTString();document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+"; path\x3d/";</script><script type="text/javascript" id="">var cookieName="fonce_current_day",conversionOccurred=1;document.cookie=cookieName+"\x3d"+conversionOccurred+","+google_tag_manager["GTM-PWJ3NQ"].macro(37)+"; expires\x3d"+expires+"; path\x3d/";</script><script type="text/javascript" id="">var cookieName="fonce_current_user",conversionOccurred=1,d=new Date;d.setTime(d.getTime()+144E6*google_tag_manager["GTM-PWJ3NQ"].macro(38));var expires=d.toGMTString();document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+"; path\x3d/";</script><script type="text/javascript" id="gtm-__utmzz-cookie-replicator">(function(g){function w(c){var e=["source","medium","campaign","term","content"];e=new RegExp("(utm_("+e.join("|")+")|(d|g)clid)\x3d.*?([^\x26#]*|$)","gi");c=c.match(e);var l;if(c){var a={};var b=c.length;for(l=0;l<b;l++)(e=c[l].split("\x3d"))&&(a[e[0]]=e[1])}return a}function x(c){if(c){var e={"daum.net":{p:"q",n:"daum"},"eniro.se":{p:"search_word",n:"eniro "},"naver.com":{p:"query",n:"naver "},"yahoo.com":{p:"p",n:"yahoo"},"msn.com":{p:"q",n:"msn"},"bing.com":{p:"q",n:"live"},"aol.com":{p:"q",n:"aol"},
+"lycos.com":{p:"q",n:"lycos"},"ask.com":{p:"q",n:"ask"},"altavista.com":{p:"q",n:"altavista"},"search.netscape.com":{p:"query",n:"netscape"},"cnn.com":{p:"query",n:"cnn"},"about.com":{p:"terms",n:"about"},"mamma.com":{p:"query",n:"mama"},"alltheweb.com":{p:"q",n:"alltheweb"},"voila.fr":{p:"rdata",n:"voila"},"search.virgilio.it":{p:"qs",n:"virgilio"},"baidu.com":{p:"wd",n:"baidu"},"alice.com":{p:"qs",n:"alice"},"yandex.com":{p:"text",n:"yandex"},"najdi.org.mk":{p:"q",n:"najdi"},"seznam.cz":{p:"q",
+n:"seznam"},"search.com":{p:"q",n:"search"},"wp.pl":{p:"szukaj ",n:"wirtulana polska"},"online.onetcenter.org":{p:"qt",n:"o*net"},"szukacz.pl":{p:"q",n:"szukacz"},"yam.com":{p:"k",n:"yam"},"pchome.com":{p:"q",n:"pchome"},"kvasir.no":{p:"q",n:"kvasir"},"sesam.no":{p:"q",n:"sesam"},"ozu.es":{p:"q",n:"ozu "},"terra.com":{p:"query",n:"terra"},"mynet.com":{p:"q",n:"mynet"},"ekolay.net":{p:"q",n:"ekolay"},"rambler.ru":{p:"words",n:"rambler"},google:{p:"q",n:"google"}},a=g.createElement("a"),b={};a.href=
+c;-1<a.hostname.indexOf("google")&&(m="google");e[m]?(c=e[m],e=new RegExp(c.p+"\x3d.*?([^\x26#]*|$)","gi"),a=a.search.match(e),b.source=c.n,b.medium="organic",b.term=(a?a[0].split("\x3d")[1]:"")||"(not provided)"):m!==n&&(b.source=a.hostname,b.medium="referral");return b}}function u(c,a,b,d,f){c=c+"\x3d"+a+";";b&&(c+="Expires\x3d"+b.toGMTString()+";");d&&(c+="Path\x3d"+d+";");f&&(c+="Domain\x3d"+f+";");g.cookie=c}function q(a){var b="; "+g.cookie;a=b.split("; "+a+"\x3d");if(1<a.length)return a.pop().split(";")[0]}
+function v(a){if(a){var b=g.createElement("a");b.href=a;try{return b.hostname.match(/[^.]*\.[^.]{2,3}(?:\.[^.]{2,3})?$/)[0]}catch(l){}}}var p=g.referrer,b={utmcsr:"(direct)",utmcmd:"(none)",utmccn:"(not set)"},r=g.location.hostname,n=v(r),m=v(g.referrer),k=q("__utmzzses");r=new Date(+new Date+15552E6);var a=g.location.search.replace("?",""),h=g.location.hash.replace("#","");a=w(a+"#"+h);var d=x(p);h=q("__utmz")||q("__utmzz");p=[];var t={utm_source:"utmcsr",utm_medium:"utmcmd",utm_campaign:"utmccn",
+utm_content:"utmcct",utm_term:"utmctr",gclid:"utmgclid",dclid:"utmdclid"},f;k&&m===n&&(d=a=null);if(a&&(a.utm_source||a.gclid||a.dclid)){for(f in a)"undefined"!==typeof a[f]&&(k=t[f],b[k]=a[f]);if(a.gclid||a.dclid)b.utmcsr="google",b.utmcmd=b.utmgclid?"cpc":"cpm"}else if(d)b.utmcsr=d.source,b.utmcmd=d.medium,d.term&&(b.utmctr=d.term);else if(h)for(b={},h=h.split("|"),t=h.length,d=0;d<t;d++)k=h[d].split("\x3d"),a=k[0].split(".").pop(),b[a]=k[1];for(f in b)"undefined"!==typeof b[f]&&p.push(f+"\x3d"+
+b[f]);u("__utmzz",p.join("|"),r,"/",n);u("__utmzzses",1,null,"/",n)})(document);</script><div id="tooltip-ball" class="tooltip"><span></span><div id="tooltip-ball-lt" class="tooltip-lt"></div><div id="tooltip-ball-rt" class="tooltip-rt"></div><div id="tooltip-ball-lb" class="tooltip-lb"></div><div id="tooltip-ball-cb" class="tooltip-cb"></div><div id="tooltip-ball-rb" class="tooltip-rb"></div><div id="tooltip-ball-ct" class="tooltip-ct"></div></div></body></html>
